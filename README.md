@@ -22,6 +22,7 @@
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- Git
 
 <br />
 <br />
