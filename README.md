@@ -10,7 +10,9 @@
 ### Connect with me:
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/upwork.svg" />][upwork]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/freelancer.svg" />][freelancer]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
+
 
 <br />
 
@@ -30,6 +32,7 @@
 
 [linkedin]: https://www.linkedin.com/in/just-youssef/
 [upwork]: https://www.google.com/
+[freelancer]: https://www.freelancer.com/u/justyoussef99/
 [kaggle]: https://www.kaggle.com/justyoussef
 [facebook]: https://www.facebook.com/just.johnny99/
 [certificate]: https://www.google.com/
