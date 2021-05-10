@@ -30,9 +30,9 @@
 <br />
 
 
-[linkedin]: https://www.linkedin.com/in/just-youssef/
-[upwork]: https://www.google.com/
-[freelancer]: https://www.freelancer.com/u/justyoussef99/
+[linkedin]: https://www.linkedin.com/in/just-youssef
+[upwork]: https://www.upwork.com/freelancers/~01bf41aeaec6f293c5
+[freelancer]: https://www.freelancer.com/u/justyoussef99
 [kaggle]: https://www.kaggle.com/justyoussef
-[facebook]: https://www.facebook.com/just.johnny99/
-[certificate]: https://www.google.com/
+[facebook]: https://www.facebook.com/just.johnny99
+[certificate]: https://confirm.udacity.com/UCHD2MMD
