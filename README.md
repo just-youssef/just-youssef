@@ -3,7 +3,7 @@
 ### Freelance Data Analyst @ Upwork | Former Instructor | Computer Engineer
 
 - 🥅 I have big interest of Data Science, Machine learning and Deep Learning fields
-- 🌱 Had the certificate of Data Analysis (Advanced Track) of Udacity & egyptFWD [(Here a Certification Copy)](https://www.google.com/)
+- 🌱 Had the certificate of Data Analysis (Advanced Track) of Udacity & egyptFWD [(Here a Certification Copy)][certificate]
 - 🔭 I'm a student a faculty of Engineering - Helwan University, Egypt
 - ⚡ I’m currently learning SQL and Deep Learning
 
