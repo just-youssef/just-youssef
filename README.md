@@ -26,7 +26,7 @@
 - Seaborn
 - Scikit-learn
 - TensorFlow
-- Git
+- Git Bash
 
 <br />
 <br />
