@@ -30,11 +30,11 @@
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/just-youssef)
-[![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/~01bf41aeaec6f293c5)
-[![Freelancer](https://img.shields.io/badge/-Freelancer-29B2FE?style=flat-square&logo=freelancer)](https://www.freelancer.com/u/justyoussef99)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/justyoussef)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/just.johnny99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/just-youssef)
+[![Upwork](https://img.shields.io/badge/Upwork-Profile-6fda44?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/~01bf41aeaec6f293c5)
+[![Freelancer](https://img.shields.io/badge/Freelancer-Profile-29B2FE?style=flat-square&logo=freelancer)](https://www.freelancer.com/u/justyoussef99)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/justyoussef)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/just.johnny99)
 
 ---
 
