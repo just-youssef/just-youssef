@@ -2,11 +2,9 @@
 
 ### 💻 Full-Stack Web Developer (MERN)
 
-- 🧠 I specialize in building scalable, production-ready web applications using **React, Next.js, Node.js, MongoDB** and modern dev practices.
-- 🚀 Currently working at IVY STEM International School building cloud-based platforms for education.
-- 🔧 Proficient with modern tools & frameworks: **Tailwind CSS, Redux, Docker, AWS, PHP, MySQL**
-- 🌍 Passionate about crafting high-impact products that combine performance, UX, and maintainability.
-- 📈 Also experienced with AI/ML (TensorFlow, Keras) and automation.
+- 🧠 I specialize in building scalable, production-grade web applications using the **MERN stack** and modern development best practices.
+- 🌍 Passionate about crafting high-impact digital products that prioritize performance, user experience, and long-term maintainability.
+- 📈 Also experienced in AI/ML integration, automation workflows, and cloud deployment using tools like **TensorFlow**, **Docker**, and **AWS**.
 
 ---
 
