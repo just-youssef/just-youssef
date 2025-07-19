@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Youssef Hussein
 
-### 💻 Full-Stack Web Developer (MERN) | AI Enthusiast | Open Source Contributor
+### 💻 Full-Stack Web Developer (MERN)
 
 - 🧠 I specialize in building scalable, production-ready web applications using **React, Next.js, Node.js, MongoDB** and modern dev practices.
 - 🚀 Currently working at IVY STEM International School building cloud-based platforms for education.
